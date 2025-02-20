@@ -3,6 +3,15 @@
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
+
+**Name**: Sarah Ines Sole Villalobos.  
+
+## Link: (https://github.com/SarahSolev)
+
+
+
+
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
